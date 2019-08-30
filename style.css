@@ -1,0 +1,82 @@
+div.header{
+	color: green;
+	background: cyan;
+	text-align: center;
+}
+div.content{
+
+	color: cyan;
+	background: pink;
+	height: auto;
+	width: auto;
+	text-align: left;
+}
+div.footer{
+	color: black;
+	background: purple;
+	height: 200px;
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 20px;
+}
+div.logo{
+	height: 100px;
+	width: 100px;
+	background: black;
+	text-align: left;
+}
+div.content-1{
+	color: red;
+	background: white;
+	height: 200px;
+	width: 200px;
+	text-align: left;
+	float: left;
+	margin: 100px;
+	padding: 1em;
+}
+
+div.content-2{
+	color: green;
+	background: black;
+	height: 200px;
+	width: 200px;
+	text-align: center;
+	float: left;
+	margin: 100px;
+	padding: 1em;
+}
+
+div.content-3{
+	color: yellow;
+	background: white;
+	height: 200px;
+	width: 200px;
+	text-align: right;
+	float: left;
+	margin: 100px;
+	padding: 1em;
+}
+
+div.content-5{
+	color: red;
+	background: white;
+	height: 200px;
+	width: 200px;
+	text-align: left;
+	float: left;
+	margin: 100px;
+	padding: 1em;
+}
+
+div.content-4{
+	color: green;
+	background: black;
+	height: 200px;
+	width: 200px;
+	text-align: center;
+	float: left;
+	margin: 100px;
+	padding: 1em;
+}
