@@ -20,6 +20,15 @@ div.footer{
 	font-weight: bold;
 	font-size: 20px;
 }
+div.footer3{
+	color: black;
+	background: purple;
+	height: 200px;
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 20px;
+}
 div.logo{
 	height: 100px;
 	width: 100px;
